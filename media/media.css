@@ -1,0 +1,3414 @@
+@media screen and (max-width: 1900px) {
+    .left {
+        width: 16.2%;
+    }
+
+    .right {
+        width: 17.2%;
+    }
+
+    .grid {
+        grid-template-columns: repeat(5, 210px);
+        grid-auto-rows: 310px;
+    }
+
+    .gridtwo {
+        grid-template-columns: repeat(5, 210px);
+        grid-auto-rows: 310px;
+    }
+
+    .items {
+        padding: 18px 19px 15px;
+        gap: 20px;
+    }
+
+    .item-img {
+        width: 175px;
+        height: 175px;
+    }
+
+    .item-text-block {
+        gap: 7px;
+    }
+
+    .grid-text {
+        font-size: 19px;
+    }
+
+    .text {
+        font-size: 17px;
+    }
+
+    .gridUptaded {
+        grid-template-columns: repeat(6, 214px);
+        grid-auto-rows: 314px;
+    }
+
+    .history__block__grid {
+        grid-template-columns: repeat(5, 215px);
+        grid-auto-rows: 214px;
+        grid-gap: 26px;
+    }
+}
+
+@media screen and (max-width: 1800px) {
+    .left {
+        width: 16.2%;
+    }
+
+    .right {
+        width: 17.2%;
+    }
+
+    .grid {
+        grid-template-columns: repeat(5, 200px);
+        grid-auto-rows: 295px;
+        grid-gap: 25px;
+    }
+
+    .gridtwo {
+        grid-template-columns: repeat(5, 200px);
+        grid-auto-rows: 295px;
+        grid-gap: 25px;
+    }
+
+    .items {
+        padding: 17px 17px 14px;
+        gap: 18px;
+    }
+
+    .item-img {
+        width: 170px;
+        height: 170px;
+    }
+
+    .item-text-block {
+        gap: 7px;
+    }
+
+    .grid-text {
+        font-size: 18px;
+    }
+
+    .text {
+        font-size: 17px;
+    }
+
+    .gridUptaded {
+        grid-template-columns: repeat(6, 204px);
+        grid-gap: 26px;
+        grid-auto-rows: 300px;
+    }
+
+    .wrapUptaded {
+        margin: 110px 1.6% 0;
+    }
+
+    .text1 {
+        font-size: 19px;
+    }
+
+    .info {
+        font-size: 17px;
+        margin-top: 37px;
+        margin-bottom: 22px;
+    }
+
+    .contact {
+        width: 170px;
+        height: 60px;
+    }
+
+    .settings {
+        width: 225px;
+        height: 60px;
+        font-size: 17px;
+    }
+
+    .history__block__grid {
+        grid-template-columns: repeat(5, 195px);
+        grid-auto-rows: 195px;
+        grid-gap: 23px;
+    }
+}
+
+@media screen and (max-width: 1650px) {
+    header {
+        padding: 0 35px;
+    }
+
+    .left {
+        width: 16.0%;
+    }
+
+    .right {
+        width: 17.0%;
+    }
+
+    .grid {
+        grid-template-columns: repeat(4, 220px);
+        grid-auto-rows: 324px;
+        grid-gap: 30px;
+    }
+
+    .gridtwo {
+        grid-template-columns: repeat(4, 220px);
+        grid-auto-rows: 324px;
+        grid-gap: 30px;
+    }
+
+    .place__results {
+        gap: 30px;
+    }
+
+    .place__results_left {
+        width: 36%;
+        height: 250px;
+        padding: 18px 18px 22px;
+        gap: 18px;
+    }
+
+    .place__results_right {
+        width: 64%;
+    }
+
+    .items {
+        padding: 19px 20px 16px;
+        gap: 24px;
+    }
+
+    .item-img {
+        width: 180px;
+        height: 180px;
+    }
+
+    .item-text-block {
+        gap: 8px;
+    }
+
+    .grid-text {
+        font-size: 19px;
+    }
+
+    .text {
+        font-size: 17px;
+    }
+
+    .gridUptaded {
+        grid-template-columns: repeat(5, 224px);
+        grid-gap: 31px;
+        grid-auto-rows: 324px;
+    }
+
+    .wrapUptaded {
+        margin: 110px 1.6% 0;
+    }
+
+    .text1 {
+        font-size: 18px;
+    }
+
+    .nav-block {
+        gap: 20px;
+    }
+
+    .chel {
+        width: 15.75px;
+        height: 18.75px;
+    }
+
+    .none {
+        width: 17px;
+        height: 17px;
+    }
+
+    .info {
+        font-size: 16px;
+        margin-top: 34px;
+        margin-bottom: 20px;
+    }
+
+    .contact {
+        width: 155px;
+        height: 55px;
+    }
+
+    .contacts {
+        gap: 18px;
+    }
+
+    .settings {
+        width: 205px;
+        height: 50px;
+        font-size: 16px;
+    }
+
+    .playlisy-header {
+        gap: 27px;
+    }
+
+    .titletext {
+        font-size: 105px;
+    }
+
+    .playlist-img {
+        width: 290px;
+        height: 290px;
+    }
+
+    .biggestcontrols {
+        margin: 57px 0 70px;
+    }
+
+    .musicsblock {
+        margin-top: 28px;
+    }
+
+    .musicblockalbum {
+        font-size: 17px;
+    }
+
+    .musicdate {
+        font-size: 17px;
+    }
+
+    .blocktext1 {
+        font-size: 19px;
+    }
+
+    .blocktext2 {
+        font-size: 17px;
+    }
+
+    .musicblock {
+        gap: 19px;
+    }
+
+    .musicblocktext {
+        gap: 1px;
+    }
+
+    .musicblockimg {
+        width: 48px;
+        height: 48px;
+    }
+
+    .timeblock {
+        font-size: 19px;
+    }
+
+    .artist-name {
+        font-size: 19px;
+    }
+
+    .playlist-texts {
+        gap: 11px;
+    }
+
+    .biggestPlayer {
+        width: 67px;
+        height: 67px;
+    }
+
+    .biggestHeart {
+        width: 49px;
+        height: 49px;
+    }
+
+    .biggestDownload {
+        width: 49px;
+        height: 49px;
+    }
+
+    .biggestDots {
+        width: 42px;
+        height: 42px;
+    }
+
+    .biggestInput {
+        width: 150px;
+        height: 28px;
+    }
+
+    .biggestLeft {
+        gap: 34px;
+    }
+
+    .history__block__grid {
+        grid-template-columns: repeat(4, 218px);
+        grid-auto-rows: 218px;
+        grid-gap: 27px;
+    }
+
+    .history__top_jenres {
+        width: 490px;
+        height: 255px;
+    }
+
+    .history__block {
+        display: flex;
+        gap: 29px;
+        align-items: center;
+    }
+}
+
+@media screen and (max-width: 1500px) {
+    .playlisy-header {
+        gap: 25px;
+    }
+
+    .titletext {
+        font-size: 100px;
+    }
+
+    .likedTitle {
+        font-size: 93px;
+    }
+
+    .playlist-img {
+        width: 280px;
+        height: 280px;
+    }
+
+    .playlist-img2 {
+        width: 280px;
+        height: 280px;
+    }
+
+    .biggestcontrols {
+        margin: 50px 0 60px;
+    }
+
+    .musicsblock {
+        margin-top: 28px;
+    }
+
+    .musicblockalbum {
+        font-size: 17px;
+    }
+
+    .musicdate {
+        font-size: 17px;
+    }
+
+    .blocktext1 {
+        font-size: 19px;
+    }
+
+    .blocktext2 {
+        font-size: 17px;
+    }
+
+    .musicblock {
+        gap: 19px;
+    }
+
+    .musicblocktext {
+        gap: 1px;
+    }
+
+    .musicblockimg {
+        width: 48px;
+        height: 48px;
+    }
+
+    .timeblock {
+        font-size: 19px;
+    }
+
+    .artist-name {
+        font-size: 19px;
+    }
+
+    .playlist-texts {
+        gap: 10px;
+    }
+
+    .biggestPlayer {
+        width: 67px;
+        height: 67px;
+    }
+
+    .biggestHeart {
+        width: 49px;
+        height: 49px;
+    }
+
+    .biggestDownload {
+        width: 49px;
+        height: 49px;
+    }
+
+    .biggestDots {
+        width: 42px;
+        height: 42px;
+    }
+
+    .biggestInput {
+        width: 150px;
+        height: 28px;
+    }
+
+    .biggestLeft {
+        gap: 34px;
+    }
+
+    .likedblock {
+        width: 27px;
+        height: 27px;
+    }
+
+    .left {
+        padding: 55px 32px 0;
+        gap: 42px;
+    }
+
+    .img-block {
+        gap: 17px;
+    }
+
+    .img:nth-child(1) {
+        width: 23px;
+        height: 25px;
+    }
+
+    .text {
+        font-size: 17px;
+    }
+
+    .gap {
+        gap: 14px;
+    }
+
+    .grey {
+        font-size: 17px;
+    }
+
+    .left {
+        width: 15.5%;
+    }
+
+    .right {
+        width: 16.5%;
+    }
+
+    .wrap-grid {
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 13px 25px;
+        margin-top: 25px;
+        margin-bottom: 40px;
+    }
+
+    .grid-img {
+        width: 77px;
+        height: 77px;
+    }
+
+    .hello {
+        font-size: 36px;
+    }
+
+
+    .grid {
+        grid-template-columns: repeat(5, 200px);
+        grid-auto-rows: 295px;
+        grid-gap: 25px;
+    }
+
+    .title {
+        font-family: 'Circular 700';
+        font-size: 28px;
+        line-height: 38px;
+        color: #FFFFFF;
+    }
+
+    .gridtwo {
+        grid-template-columns: repeat(5, 200px);
+        grid-auto-rows: 295px;
+        grid-gap: 25px;
+    }
+
+    .items {
+        padding: 17px 17px 14px;
+        gap: 18px;
+    }
+
+    .item-img {
+        width: 170px;
+        height: 170px;
+    }
+
+    .item-text-block {
+        gap: 7px;
+    }
+
+    .grid-text {
+        font-size: 18px;
+    }
+
+    .text {
+        font-size: 17px;
+    }
+
+    .gridUptaded {
+        grid-template-columns: repeat(6, 204px);
+        grid-gap: 26px;
+        grid-auto-rows: 300px;
+    }
+
+    .wrapUptaded {
+        margin: 90px 2.2% 0;
+    }
+
+    .text1 {
+        font-size: 18px;
+    }
+
+    .nav-block {
+        gap: 20px;
+    }
+
+    .chel {
+        width: 15.75px;
+        height: 18.75px;
+    }
+
+    .none {
+        width: 17px;
+        height: 17px;
+    }
+
+    .info {
+        font-size: 15px;
+        margin-top: 34px;
+        margin-bottom: 20px;
+    }
+
+    .settings {
+        width: 195px;
+        height: 50px;
+        font-size: 15px;
+    }
+
+    .history__block__grid {
+        grid-template-columns: repeat(4, 195px);
+        grid-auto-rows: 195px;
+        grid-gap: 23px;
+    }
+
+    .history__top_jenres {
+        width: 420px;
+        height: 215px;
+    }
+
+    .history__block {
+        display: flex;
+        gap: 29px;
+        align-items: center;
+    }
+
+    .history__block-item {
+        width: 204px;
+        height: 294px;
+        border-radius: 8px;
+        padding: 17px 19px 0px 17px;
+        margin-bottom: 60px;
+    }
+
+    .history__block-item-bottom-artist_name {
+        font-family: 'Circular 700';
+        font-size: 18px;
+        color: #FFFFFF;
+    }
+
+    .history__block-item-bottom-artist {
+        font-family: 'Circular';
+        font-size: 17px;
+        color: #B3B3B3;
+    }
+
+    .history__block-item-top-avatar {
+        width: 174px;
+        height: 174px;
+    }
+
+    .history__block-item-bottom {
+        margin-top: 20px;
+        display: flex;
+        flex-direction: column;
+        gap: 6px;
+    }
+
+    .history__block-item-top_no {
+        width: 16px;
+        height: 16px;
+        background-size: cover;
+    }
+
+    .recent {
+        font-size: 30px;
+        margin-bottom: 26px;
+    }
+
+    .place__results {
+        gap: 28px;
+    }
+
+    .place__results_left {
+        width: 35%;
+        height: 230px;
+        padding: 17px 17px 20px;
+        gap: 17px;
+    }
+
+    .place__results_right {
+        width: 65%;
+    }
+
+    .place__results_left_img {
+        width: 90px;
+        height: 90px;
+        border-radius: 10px;
+        background-size: cover;
+        box-shadow: 0px 0px 24px rgb(0 0 0 / 25%);
+    }
+
+    .musicnumber2 {
+        font-size: 19px;
+        bottom: 13px;
+        left: 1.5%;
+    }
+
+    .musicblockimg2 {
+        width: 38px;
+        height: 38px;
+    }
+
+    .place__results_left_song {
+        font-size: 30px;
+    }
+
+    .place__results_left_artist {
+        font-size: 16px;
+    }
+
+    .musicblock2 {
+        gap: 13px;
+        bottom: 5px;
+    }
+
+    .blocktext3 {
+        font-size: 16px;
+    }
+
+    .blocktext4 {
+        font-size: 14px;
+    }
+
+    .musicitem2 {
+        height: 62px;
+    }
+
+    .musicblockalbum2 {
+        font-size: 15px;
+    }
+
+    .musicdate2 {
+        font-size: 15px;
+    }
+
+    .likedblock2 {
+        width: 25px;
+        height: 25px;
+        bottom: 20.5px;
+        left: 88.4%;
+    }
+
+    .timeblock2 {
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width: 1350px) {
+    .playlisy-header {
+        gap: 25px;
+    }
+
+    .titletext {
+        font-size: 100px;
+    }
+
+    .likedTitle {
+        font-size: 80px;
+    }
+
+    .playlist-img {
+        width: 280px;
+        height: 280px;
+    }
+
+    .playlist-img2 {
+        width: 275px;
+        height: 275px;
+    }
+
+    .biggestcontrols {
+        margin: 50px 0 60px;
+    }
+
+    .musicsblock {
+        margin-top: 28px;
+    }
+
+    .musicblockalbum {
+        font-size: 17px;
+    }
+
+    .musicdate {
+        font-size: 17px;
+    }
+
+    .blocktext1 {
+        font-size: 19px;
+    }
+
+    .blocktext2 {
+        font-size: 17px;
+    }
+
+    .musicblock {
+        gap: 19px;
+    }
+
+    .musicblocktext {
+        gap: 1px;
+    }
+
+    .musicblockimg {
+        width: 48px;
+        height: 48px;
+    }
+
+    .timeblock {
+        font-size: 19px;
+    }
+
+    .artist-name {
+        font-size: 19px;
+    }
+
+    .playlist-texts {
+        gap: 10px;
+    }
+
+    .biggestPlayer {
+        width: 65px;
+        height: 65px;
+    }
+
+    .biggestHeart {
+        width: 49px;
+        height: 49px;
+    }
+
+    .biggestDownload {
+        width: 49px;
+        height: 49px;
+    }
+
+    .biggestDots {
+        width: 42px;
+        height: 42px;
+    }
+
+    .biggestInput {
+        width: 150px;
+        height: 28px;
+    }
+
+    .biggestLeft {
+        gap: 34px;
+    }
+
+    .likedblock {
+        width: 27px;
+        height: 27px;
+    }
+
+    .left {
+        padding: 50px 30px 0;
+        gap: 35px;
+    }
+
+    .img-block {
+        gap: 15px;
+    }
+
+    .img:nth-child(1) {
+        width: 22px;
+        height: 24px;
+    }
+
+    .text {
+        font-size: 16px;
+    }
+
+    .gap {
+        gap: 14px;
+    }
+
+    .grey {
+        font-size: 16px;
+    }
+
+    .right {
+        padding: 25px 18px 0 18.5px;
+    }
+
+    .wrap-grid {
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 13px 25px;
+        margin-top: 25px;
+        margin-bottom: 35px;
+    }
+
+    .grid-block {
+        height: fit-content;
+    }
+
+    .grid-img {
+        width: 70px;
+        height: 70px;
+    }
+
+    .grid-text {
+        font-size: 18px;
+    }
+
+    .hello {
+        font-size: 35px;
+    }
+
+    .grid {
+        grid-template-columns: repeat(3, 220px);
+        grid-gap: 30px;
+        grid-auto-rows: 324px;
+        margin-bottom: 30px;
+    }
+
+    .title {
+        font-family: 'Circular 700';
+        font-size: 28px;
+        line-height: 38px;
+        color: #FFFFFF;
+    }
+
+    .gridtwo {
+        grid-template-columns: repeat(3, 220px);
+        grid-gap: 30px;
+        grid-auto-rows: 324px;
+    }
+
+    .items {
+        padding: 17px 17px 14px;
+        gap: 18px;
+    }
+
+    .item-img {
+        width: 170px;
+        height: 170px;
+    }
+
+    .item-text-block {
+        gap: 7px;
+    }
+
+    .grid-text {
+        font-size: 18px;
+    }
+
+    nav {
+        gap: 17px;
+    }
+
+    .text {
+        font-size: 17px;
+    }
+
+    .gridUptaded {
+        grid-template-columns: repeat(6, 204px);
+        grid-gap: 26px;
+        grid-auto-rows: 300px;
+    }
+
+    .wrapUptaded {
+        margin: 90px 2.2% 0;
+    }
+
+    .text1 {
+        font-size: 16px;
+    }
+
+    .nav-block {
+        gap: 12px;
+    }
+
+    .chel {
+        width: 14.75px;
+        height: 17.75px;
+    }
+
+    .none {
+        width: 16px;
+        height: 16px;
+    }
+
+    .info {
+        font-size: 15px;
+        margin-top: 30px;
+        margin-bottom: 20px;
+    }
+
+    .settings {
+        width: 170px;
+        height: 45px;
+        font-size: 14px;
+    }
+
+    header {
+        padding: 0 22px;
+    }
+
+    .header-left {
+        gap: 17px;
+    }
+
+    .back {
+        width: 37px;
+        height: 37px;
+    }
+
+    .next {
+        width: 38px;
+        height: 38px;
+    }
+
+    #dropdownAvatarNameButton {
+        padding: 2px;
+        display: flex;
+        gap: 4px;
+        font-size: 17px;
+    }
+
+    footer {
+        height: 105px;
+    }
+
+    .musictitle {
+        font-size: 17px;
+    }
+
+    .musicartist {
+        font-size: 15px;
+    }
+
+    .footer-center {
+        gap: 20px;
+    }
+
+    .footer-center-top {
+        gap: 25px;
+    }
+
+    .shuffle {
+        width: 29px;
+        height: 29px;
+    }
+
+    .center-back {
+        width: 29px;
+        height: 29px;
+    }
+
+    .pause {
+        width: 37px;
+        height: 37px;
+    }
+
+    .center-next {
+        width: 29px;
+        height: 29px;
+    }
+
+    .return {
+        width: 29px;
+        height: 29px;
+    }
+
+    .footer-center-bottom {
+        width: 532px;
+    }
+
+    .footer-right {
+        gap: 12px;
+    }
+
+    .xs {
+        width: 29px;
+        height: 29px;
+    }
+
+    .kolonka {
+        width: 29px;
+        height: 29px;
+    }
+
+    .volume {
+        width: 29px;
+        height: 29px;
+    }
+
+    .big {
+        width: 29px;
+        height: 29px;
+    }
+
+    .index {
+        height: 134vh;
+    }
+
+    .gold {
+        height: 134vh;
+    }
+}
+
+@media screen and (max-width: 1350px) {
+    .playlist-img {
+        width: 270px;
+        height: 270px;
+    }
+
+    .musicsblock {
+        display: flex;
+        flex-direction: column;
+        margin-top: 28px;
+        margin-bottom: 180px;
+    }
+
+    .left {
+        padding: 40px 5px 0 20px;
+        gap: 30px;
+    }
+
+    .img-block {
+        gap: 14px;
+    }
+
+    .img:nth-child(1) {
+        width: 21px;
+        height: 22px;
+    }
+
+    .text {
+        font-size: 15px;
+    }
+
+    .gap {
+        gap: 13px;
+    }
+
+    .grey {
+        font-size: 15px;
+    }
+
+    .right {
+        padding: 20px 18px 0 18.5px;
+    }
+
+    .wrap-grid {
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 13px 25px;
+        margin-top: 25px;
+        margin-bottom: 35px;
+    }
+
+    .grid-block {
+        height: fit-content;
+    }
+
+    .grid-img {
+        width: 70px;
+        height: 70px;
+    }
+
+    .grid-text {
+        font-size: 18px;
+    }
+
+    .hello {
+        font-size: 35px;
+    }
+
+    .grid {
+        grid-template-columns: repeat(3, 220px);
+        grid-gap: 30px;
+        grid-auto-rows: 324px;
+        margin-bottom: 30px;
+    }
+
+    .title {
+        font-family: 'Circular 700';
+        font-size: 28px;
+        line-height: 38px;
+        color: #FFFFFF;
+    }
+
+    .gridtwo {
+        grid-template-columns: repeat(3, 220px);
+        grid-gap: 30px;
+        grid-auto-rows: 324px;
+    }
+
+    .items {
+        padding: 17px 17px 14px;
+        gap: 18px;
+    }
+
+    .item-img {
+        width: 170px;
+        height: 170px;
+    }
+
+    .item-text-block {
+        gap: 7px;
+    }
+
+    .grid-text {
+        font-size: 18px;
+    }
+
+    nav {
+        gap: 17px;
+    }
+
+    .text {
+        font-size: 17px;
+    }
+
+    .gridUptaded {
+        grid-template-columns: repeat(6, 204px);
+        grid-gap: 26px;
+        grid-auto-rows: 300px;
+    }
+
+    .wrapUptaded {
+        margin: 90px 2.2% 0;
+    }
+
+    .text1 {
+        font-size: 16px;
+    }
+
+    .nav-block {
+        gap: 12px;
+    }
+
+    .chel {
+        width: 14.75px;
+        height: 17.75px;
+    }
+
+    .none {
+        width: 16px;
+        height: 16px;
+    }
+
+    .info {
+        font-size: 15px;
+        margin-top: 30px;
+        margin-bottom: 20px;
+    }
+
+    .settings {
+        width: 170px;
+        height: 45px;
+        font-size: 14px;
+    }
+
+    header {
+        padding: 0 22px;
+    }
+
+    .header-left {
+        gap: 17px;
+    }
+
+    .back {
+        width: 37px;
+        height: 37px;
+    }
+
+    .next {
+        width: 38px;
+        height: 38px;
+    }
+
+    #dropdownAvatarNameButton {
+        padding: 2px;
+        display: flex;
+        gap: 4px;
+        font-size: 17px;
+    }
+
+    footer {
+        height: 105px;
+    }
+
+    .musictitle {
+        font-size: 17px;
+    }
+
+    .musicartist {
+        font-size: 15px;
+    }
+
+    .footer-center {
+        gap: 20px;
+    }
+
+    .footer-center-top {
+        gap: 25px;
+    }
+
+    .shuffle {
+        width: 29px;
+        height: 29px;
+    }
+
+    .center-back {
+        width: 29px;
+        height: 29px;
+    }
+
+    .pause {
+        width: 37px;
+        height: 37px;
+    }
+
+    .center-next {
+        width: 29px;
+        height: 29px;
+    }
+
+    .return {
+        width: 29px;
+        height: 29px;
+    }
+
+    .footer-center-bottom {
+        width: 532px;
+    }
+
+    .footer-right {
+        gap: 12px;
+    }
+
+    .xs {
+        width: 29px;
+        height: 29px;
+    }
+
+    .kolonka {
+        width: 29px;
+        height: 29px;
+    }
+
+    .volume {
+        width: 29px;
+        height: 29px;
+    }
+
+    .big {
+        width: 29px;
+        height: 29px;
+    }
+
+    .index {
+        height: 147vh;
+    }
+
+    .gold {
+        height: 147vh;
+    }
+
+    .history__block__grid {
+        grid-template-columns: repeat(3, 215px);
+        grid-auto-rows: 214px;
+        grid-gap: 26px;
+    }
+
+    .history__top_jenres {
+        width: 390px;
+        height: 195px;
+    }
+
+    .history__block {
+        display: flex;
+        gap: 29px;
+        align-items: center;
+    }
+
+    .place__results {
+        gap: 28px;
+    }
+
+    .place__results_left {
+        width: 35%;
+        height: 230px;
+        padding: 17px 17px 20px;
+        gap: 17px;
+    }
+
+    .place__results_right {
+        width: 65%;
+    }
+
+    .place__results_left_img {
+        width: 90px;
+        height: 90px;
+        border-radius: 10px;
+        background-size: cover;
+        box-shadow: 0px 0px 24px rgb(0 0 0 / 25%);
+    }
+
+    .musicnumber2 {
+        font-size: 19px;
+        bottom: 13px;
+        left: 1.5%;
+    }
+
+    .musicblockimg2 {
+        width: 38px;
+        height: 38px;
+    }
+
+    .place__results_left_song {
+        font-size: 30px;
+    }
+
+    .place__results_left_artist {
+        font-size: 16px;
+    }
+
+    .musicblock2 {
+        gap: 13px;
+        bottom: 5px;
+        left: 5.5%;
+    }
+
+    .blocktext3 {
+        font-size: 16px;
+    }
+
+    .blocktext4 {
+        font-size: 14px;
+    }
+
+    .musicitem2 {
+        height: 62px;
+    }
+
+    .musicblockalbum2 {
+        font-size: 15px;
+        left: 50.3%;
+    }
+
+    .musicdate2 {
+        display: none;
+    }
+
+    .likedblock2 {
+        width: 25px;
+        height: 25px;
+        bottom: 20.5px;
+        left: 88.4%;
+    }
+
+    .timeblock2 {
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .left {
+        width: 16.5%;
+        padding: 35px 5px 0 18px;
+        gap: 30px;
+    }
+
+    .right {
+        display: none;
+    }
+
+    header {
+        width: 83.5%;
+        left: 16.5%;
+        transform: translateX(0%);
+    }
+
+    .wrap-grid {
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 13px 25px;
+        margin-top: 25px;
+        margin-bottom: 35px;
+    }
+
+    .grid-block:nth-child(n + 5) {
+        display: none;
+    }
+
+    .wrapper {
+        width: 80%;
+        float: right;
+        margin: 110px 1.6% 0;
+    }
+
+    .grid-img {
+        width: 70px;
+        height: 70px;
+    }
+
+    .grid-text {
+        font-size: 18px;
+    }
+
+    .hello {
+        font-size: 35px;
+    }
+
+    .grid {
+        grid-template-columns: repeat(4, 1fr);
+        grid-gap: 2.5%;
+        margin-bottom: 30px;
+    }
+
+    .title {
+        margin-bottom: 10px;
+    }
+
+    .gridtwo {
+        grid-template-columns: repeat(4, 1fr);
+        grid-gap: 2.5%;
+    }
+
+    .grid-text {
+        font-size: 18px;
+    }
+
+    .footer-center {
+        gap: 17px;
+    }
+
+    .footer-center-top {
+        gap: 20px;
+    }
+
+    .footer-center-bottom {
+        width: 512px;
+    }
+
+    .footer-right {
+        gap: 12px;
+    }
+
+    .index {
+        height: 147vh;
+    }
+
+    .gold {
+        height: 147vh;
+    }
+
+    .footer-left {
+        gap: 20px;
+    }
+
+    .musicimg {
+        width: 55px;
+        height: 55px;
+    }
+
+    .footer-big-img {
+        width: 300px;
+        height: 300px;
+        top: -328px;
+    }
+
+    .items {
+        height: fit-content;
+        padding: 4% 8%;
+        gap: 15px;
+    }
+
+    .item-text-block {
+        gap: 4px;
+    }
+
+    .item-img {
+        width: 99%;
+        height: 170px;
+    }
+
+    .history__block__grid {
+        grid-template-columns: repeat(4, 195px);
+        grid-auto-rows: 195px;
+        grid-gap: 23px;
+    }
+
+    .history__top_jenres {
+        width: 390px;
+        height: 195px;
+    }
+
+    .history__block {
+        display: flex;
+        gap: 29px;
+        align-items: center;
+    }
+}
+
+@media screen and (max-width: 1050px) {
+    .left {
+        display: none;
+    }
+
+
+    header {
+        width: 99.5%;
+        left: .5%;
+    }
+
+    .wrap-grid {
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 13px 25px;
+        margin-top: 25px;
+        margin-bottom: 35px;
+    }
+
+    .bigImg2 {
+        width: 280px;
+        height: 280px;
+        top: -280px;
+    }
+
+    .grid-block:nth-child(n + 5) {
+        display: none;
+    }
+
+    .wrapper {
+        position: absolute;
+        width: 95.6%;
+        left: .5%;
+        top: -20px;
+    }
+
+    .img:nth-child(1) {
+        width: 25px;
+        height: 28px;
+    }
+
+
+    footer {
+        display: none;
+    }
+
+    .footer3 {
+        display: flex;
+        bottom: 90px;
+    }
+
+    .footer2 {
+        display: flex;
+        bottom: 0;
+    }
+
+    .grid-img {
+        width: 70px;
+        height: 70px;
+    }
+
+    .grid-text {
+        font-size: 18px;
+    }
+
+    .hello {
+        font-size: 34px;
+    }
+
+    .grid {
+        grid-template-columns: repeat(4, 1fr);
+        grid-gap: 2.5%;
+        grid-auto-rows: max-content;
+        margin-bottom: 30px;
+    }
+
+    .title {
+        margin-bottom: 10px;
+        font-size: 27px;
+    }
+
+    .gridtwo {
+        grid-template-columns: repeat(4, 1fr);
+        grid-gap: 2.5%;
+        grid-auto-rows: max-content;
+    }
+
+    .grid-text {
+        font-size: 17px;
+    }
+
+    .index {
+        height: 147vh;
+    }
+
+    .gold {
+        height: 147vh;
+    }
+
+    .imgClick2 {
+        width: 54px;
+        height: 54px;
+    }
+
+    .text {
+        font-size: 16px;
+    }
+
+    .items {
+        height: fit-content;
+        padding: 4% 7% 4% 8%;
+        gap: 15px;
+    }
+
+    .item-text-block {
+        gap: 4px;
+    }
+
+    .item-img {
+        width: 99%;
+        height: 170px;
+    }
+
+    .player {
+        width: 70px;
+        height: 70px;
+        bottom: 38%;
+        right: 38%;
+    }
+
+    .player2 {
+        width: 70px;
+        height: 70px;
+    }
+
+    .footerText {
+        font-size: 17px;
+    }
+
+    .history__block__grid {
+        grid-template-columns: repeat(4, 1fr);
+        grid-auto-rows: 205px;
+        grid-gap: 23px;
+    }
+
+    .history__top_jenres {
+        width: 400px;
+        height: 205px;
+    }
+
+    .history__block {
+        display: flex;
+        gap: 29px;
+        align-items: center;
+    }
+
+    .containersearch {
+        margin-bottom: 180px;
+    }
+
+    .searchblock {
+        width: 428px;
+        height: 42px;
+        gap: 14px;
+        padding: 10px 16px 9px;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .playlisy-header {
+        gap: 20px;
+    }
+
+    .titletext {
+        font-size: 90px;
+    }
+
+    .likedTitle {
+        font-size: 75px;
+    }
+
+    .playlist-img {
+        width: 260px;
+        height: 260px;
+    }
+
+    .playlist-img2 {
+        width: 255px;
+        height: 255px;
+    }
+
+    .biggestcontrols {
+        margin: 40px 0 50px;
+    }
+
+    .musicsblock {
+        margin-top: 15px;
+    }
+
+    .musicblockalbum {
+        font-size: 16px;
+    }
+
+    .musicdate {
+        font-size: 16px;
+    }
+
+    .musicblock {
+        gap: 19px;
+    }
+
+    .musicblocktext {
+        gap: 1px;
+    }
+
+    .musicblockimg {
+        width: 45px;
+        height: 45px;
+    }
+
+    .spinner {
+        width: 25px;
+        height: 25px;
+    }
+
+    .musicnumber {
+        font-size: 20px;
+    }
+
+    .timeblock {
+        font-size: 18px;
+    }
+
+    .artist-name {
+        font-size: 17px;
+    }
+
+    .desc {
+        font-size: 16px;
+    }
+
+    .public {
+        font-size: 15px;
+    }
+
+    .playlist-texts {
+        gap: 10px;
+    }
+
+    .biggestPlayer {
+        width: 55px;
+        height: 55px;
+    }
+
+    .pauses {
+        width: 20px;
+        height: 22px;
+    }
+
+    .biggestHeart {
+        width: 45px;
+        height: 45px;
+    }
+
+    .biggestDownload {
+        width: 45px;
+        height: 45px;
+    }
+
+    .biggestDots {
+        width: 39px;
+        height: 39px;
+    }
+
+    .biggestInput {
+        width: 140px;
+        height: 25px;
+    }
+
+    .font {
+        font-size: 15px;
+    }
+
+    .count {
+        font-size: 20px;
+    }
+
+    .clock {
+        width: 25px;
+        height: 25px;
+    }
+
+    .biggestLeft {
+        gap: 27px;
+    }
+
+    .biggestSearch {
+        width: 20px;
+        height: 20px;
+    }
+
+    .likedblock {
+        width: 27px;
+        height: 27px;
+    }
+
+    .blocktext1 {
+        font-size: 18px;
+    }
+
+    .blocktext2 {
+        font-size: 15px;
+    }
+
+    .left {
+        display: none;
+    }
+
+
+    header {
+        width: 99.5%;
+        left: .5%;
+    }
+
+    .wrap-grid {
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 13px 25px;
+        margin-top: 25px;
+        margin-bottom: 35px;
+    }
+
+    .grid-block:nth-child(n + 5) {
+        display: none;
+    }
+
+    .wrapper {
+        position: absolute;
+        width: 95.6%;
+        left: .5%;
+        top: -20px;
+    }
+
+    .img:nth-child(1) {
+        width: 25px;
+        height: 28px;
+    }
+
+    footer {
+        display: none;
+    }
+
+    .footer3 {
+        display: flex;
+        bottom: 90px;
+    }
+
+    .footer2 {
+        display: flex;
+        bottom: 0;
+    }
+
+    .grid-img {
+        width: 70px;
+        height: 70px;
+    }
+
+    .grid-text {
+        font-size: 18px;
+    }
+
+    .hello {
+        font-size: 34px;
+    }
+
+    .grid {
+        grid-template-columns: repeat(3, 220px);
+        grid-auto-rows: 324px;
+        grid-gap: 30px;
+        margin-bottom: 30px;
+    }
+
+    .title {
+        margin-bottom: 10px;
+        font-size: 27px;
+    }
+
+    .gridtwo {
+        grid-template-columns: repeat(3, 220px);
+        grid-auto-rows: 324px;
+        grid-gap: 30px;
+    }
+
+    .grid-text {
+        font-size: 20px;
+    }
+
+    .index {
+        height: 160vh;
+    }
+
+    .gold {
+        height: 160vh;
+    }
+
+    .imgClick2 {
+        width: 54px;
+        height: 54px;
+    }
+
+    .text {
+        font-size: 18px;
+    }
+
+    .items {
+        padding: 20px 21px 18px;
+        gap: 25px;
+    }
+
+    .item-text-block {
+        gap: 8px;
+    }
+
+    .item-img {
+        width: 182px;
+        height: 182px;
+    }
+
+    .footerText {
+        font-size: 16px;
+    }
+
+    .bigImg2 {
+        width: 270px;
+        height: 270px;
+        top: -270px;
+    }
+
+    .history__block__grid {
+        grid-template-columns: repeat(3, 200px);
+        grid-auto-rows: 200px;
+        grid-gap: 23px;
+    }
+
+    .history__top_jenres {
+        width: 350px;
+        height: 190px;
+    }
+
+    .history__block {
+        display: flex;
+        gap: 29px;
+        align-items: center;
+    }
+
+    .containersearch {
+        margin-bottom: 170px;
+    }
+
+    .searchblock {
+        width: 408px;
+        height: 40px;
+        gap: 13px;
+        padding: 10px 16px 9px;
+    }
+
+    .inpsearch {
+        all: unset;
+        width: 100%;
+        font-family: 'Circular';
+        font-size: 15px;
+    }
+
+    .searchImg {
+        width: 24px;
+        height: 25px;
+    }
+
+    .inpChange {
+        height: 48px !important;
+        width: 230px !important;
+        padding: 0 14px !important;
+        font-size: 15px !important;
+    }
+
+    .nameChangeText {
+        font-size: 22px;
+    }
+
+    .name_change_left {
+        gap: 19px;
+    }
+
+    .name_change_block {
+        margin: 28px 0;
+    }
+
+    .submitChange {
+        font-size: 21px;
+        padding: 14px 47px;
+    }
+}
+
+@media screen and (max-width: 750px) {
+
+    .playlisy-header {
+        gap: 17px;
+    }
+
+    .musicblockimg {
+        width: 40px;
+        height: 40px;
+    }
+
+    .artist-name {
+        font-size: 16px;
+    }
+
+    .desc {
+        font-size: 15px;
+    }
+
+    .wrap-grid {
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 10px 20px;
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+
+    .titletext {
+        font-size: 80px;
+        line-height: 95px;
+    }
+
+    .minGap {
+        gap: 15px;
+    }
+
+    .likedTitle {
+        font-size: 60px;
+        line-height: 95px;
+    }
+
+    .playlist-img2 {
+        width: 235px;
+        height: 235px;
+    }
+
+    .playlist-img {
+        width: 250px;
+        height: 250px;
+    }
+
+    .img:nth-child(1) {
+        width: 24px;
+        height: 26px;
+    }
+
+    .footerText {
+        font-size: 15px;
+    }
+
+    footer {
+        display: none;
+    }
+
+    .footer3 {
+        display: flex;
+        bottom: 80px;
+    }
+
+    .play {
+        width: 20px;
+        height: 20px;
+    }
+
+    .img-block2 {
+        gap: 7px;
+    }
+
+    .footer2 {
+        height: 80px;
+        display: flex;
+        bottom: 0;
+    }
+
+    .grid-img {
+        width: 70px;
+        height: 70px;
+    }
+
+    .grid-text {
+        font-size: 18px;
+    }
+
+    .hello {
+        font-size: 34px;
+    }
+
+    .grid {
+        grid-template-columns: repeat(3, 1fr);
+        grid-gap: 2.5%;
+        grid-auto-rows: max-content;
+        margin-bottom: 20px;
+    }
+
+    .title {
+        margin-bottom: 10px;
+        font-size: 27px;
+    }
+
+    .gridtwo {
+        grid-template-columns: repeat(3, 1fr);
+        grid-gap: 2.5%;
+        grid-auto-rows: max-content;
+    }
+
+    .grid-text {
+        font-size: 18px;
+    }
+
+    .index {
+        height: 142vh;
+    }
+
+    .gold {
+        height: 142vh;
+    }
+
+    .imgClick2 {
+        width: 54px;
+        height: 54px;
+    }
+
+    .bigImg2 {
+        width: 300px;
+        height: 300px;
+        top: -328px;
+    }
+
+    .text {
+        font-size: 16px;
+    }
+
+    .items {
+        height: fit-content;
+        padding: 4% 8%;
+        gap: 15px;
+    }
+
+    .item-text-block {
+        gap: 4px;
+    }
+
+    .item-img {
+        width: 99%;
+        height: 170px;
+    }
+
+    .spinner {
+        bottom: 23px;
+    }
+
+    .bir {
+        height: 16px;
+        animation: animation 1.5s infinite;
+        background: #65D36E;
+        width: 3px;
+    }
+
+    .ikki {
+        height: 3px;
+        animation: animation2 1.5s infinite;
+        background: #65D36E;
+        width: 3px;
+    }
+
+    .uch {
+        height: 12px;
+        animation: animation3 1.5s infinite;
+        background: #65D36E;
+        width: 3px;
+    }
+
+    .turt {
+        height: 3px;
+        animation: animation4 .5s infinite;
+        background: #65D36E;
+        width: 3px;
+    }
+
+    @keyframes animation {
+        50% {
+            height: 3px;
+        }
+
+        100% {
+            height: 16px;
+        }
+    }
+
+    @keyframes animation2 {
+        50% {
+            height: 15px;
+        }
+
+        100% {
+            height: 3px;
+        }
+    }
+
+    @keyframes animation3 {
+        50% {
+            height: 5px;
+        }
+
+        100% {
+            height: 12px;
+        }
+    }
+
+    @keyframes animation4 {
+        50% {
+            height: 12px;
+        }
+
+        100% {
+            height: 3px;
+        }
+    }
+
+    .blocktext1 {
+        font-size: 17px;
+    }
+
+    .blocktext2 {
+        font-size: 17px;
+    }
+
+    .musicitem {
+        height: 60px;
+    }
+
+    .musicblocktext {
+        gap: 0px;
+    }
+
+    .musicblock {
+        gap: 15px;
+    }
+
+    .likedblock {
+        width: 26px;
+        height: 26px;
+        bottom: 19.5px
+    }
+
+    .musicnumber {
+        bottom: 13px;
+    }
+
+    .play {
+        bottom: 19px;
+    }
+
+    .musicsblock {
+        margin-bottom: 160px;
+    }
+
+    .bigImg2 {
+        width: 260px;
+        height: 260px;
+        top: -260px;
+    }
+
+    .history__block__grid {
+        grid-template-columns: repeat(3, 1fr);
+        grid-auto-rows: 180px;
+        grid-gap: 20px;
+    }
+
+    .history__top_jenres {
+        width: 300px;
+        height: 170px;
+    }
+
+    .history__block {
+        display: flex;
+        gap: 25px;
+        align-items: center;
+    }
+
+    .containersearch {
+        margin-bottom: 165px;
+    }
+
+    .history__block-item {
+        width: 190px;
+        height: 264px;
+        border-radius: 8px;
+        padding: 15px 17px 0px 16px;
+        margin-bottom: 50px;
+    }
+
+    .history__block-item-bottom-artist_name {
+        font-size: 16px;
+    }
+
+    .history__block-item-bottom-artist {
+        font-size: 15px;
+    }
+
+    .history__block-item-top-avatar {
+        width: 159px;
+        height: 159px;
+    }
+
+    .history__block-item-top_no {
+        width: 14px;
+        height: 14px;
+        right: 18px;
+        background-size: cover;
+    }
+
+    .history__block-item-bottom {
+        margin-top: 0px;
+        gap: 4px;
+    }
+
+    .searchblock {
+        width: 270px;
+        height: 33px;
+        gap: 11px;
+        padding: 8px 13px 7px;
+    }
+
+    .inpsearch {
+        all: unset;
+        width: 100%;
+        font-family: 'Circular';
+        font-size: 14px !important;
+    }
+
+    .searchImg {
+        width: 21px;
+        height: 22px;
+    }
+
+    .header-left {
+        gap: 13px;
+    }
+
+    .inpChange {
+        height: 46px !important;
+        width: 200px !important;
+        padding: 0 12px !important;
+        font-size: 14px !important;
+    }
+
+    .nameChangeText {
+        font-size: 21px;
+    }
+
+    .name_change_left {
+        gap: 18px;
+    }
+
+    .name_change_block {
+        margin: 26px 0;
+    }
+
+    .submitChange {
+        font-size: 20px;
+        padding: 12px 44px;
+    }
+
+    .nameChangeDesc {
+        font-size: 14px;
+    }
+    .place__results {
+        gap: 25px;
+        flex-direction: column;
+    }
+
+    .place__results_left {
+        width: 100%;
+        height: 90px;
+        padding: 0 15px;
+        gap: 15px;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .place__results_right {
+        width: 100%;
+        margin-bottom: 160px;
+    }
+
+    .place__results_left_img {
+        width: 70px;
+        height: 70px;
+        border-radius: 10px;
+        background-size: cover;
+        box-shadow: 0px 0px 15px rgb(0 0 0 / 25%);
+    }
+
+    .musicnumber2 {
+        font-size: 19px;
+        bottom: 13px;
+        left: 1.5%;
+    }
+
+    .musicblockimg2 {
+        width: 38px;
+        height: 38px;
+    }
+
+    .place__results_left_song {
+        font-size: 30px;
+    }
+
+    .place__results_left_artist {
+        font-size: 16px;
+    }
+
+    .musicblock2 {
+        gap: 13px;
+        bottom: 5px;
+        left: 4%;
+    }
+
+    .blocktext3 {
+        font-size: 16px;
+    }
+
+    .blocktext4 {
+        font-size: 14px;
+    }
+
+    .musicitem2 {
+        height: 62px;
+    }
+
+    .musicblockalbum2 {
+        font-size: 15px;
+        left: 35%;
+    }
+
+    .musicdate2 {
+        font-size: 15px;
+        display: block;
+    }
+
+    .likedblock2 {
+        width: 25px;
+        height: 25px;
+        bottom: 20.5px;
+        left: 88.4%;
+    }
+
+    .timeblock2 {
+        font-size: 16px;
+    }
+    .player3{
+        display: none !important;
+    }
+}
+
+
+@media screen and (max-width: 600px) {
+    .playlisy-header {
+        flex-direction: column;
+        align-items: baseline;
+    }
+
+    .playlist-img {
+        width: 300px;
+        height: 300px;
+        margin: 0 auto;
+    }
+
+    .public {
+        display: none;
+    }
+
+    .artist-name {
+        font-size: 17px;
+    }
+
+    .font {
+        font-size: 14px;
+        bottom: 10px;
+    }
+
+    .clock {
+        width: 23px;
+        height: 23px;
+        bottom: 13px;
+    }
+
+    .count {
+        font-size: 18px;
+        bottom: 9px;
+        left: 1.5%;
+    }
+
+    .minGap {
+        gap: 15px;
+    }
+
+    .likedTitle {
+        font-size: 60px;
+        line-height: 95px;
+    }
+
+    .playlist-img2 {
+        width: 300px;
+        height: 300px;
+        margin: 0 auto;
+    }
+
+    .musicnumber {
+        font-size: 19px;
+        bottom: 13px;
+        left: 1.5%;
+    }
+
+    .musicblockalbum {
+        font-size: 15px;
+    }
+
+    .musicdate {
+        font-size: 15px;
+    }
+
+    .likedblock {
+        width: 25px;
+        height: 25px;
+        bottom: 20.5px;
+        left: 88.4%;
+    }
+
+    .timeblock {
+        font-size: 16px;
+    }
+
+    .blocktext1 {
+        font-size: 16px;
+    }
+
+    .blocktext2 {
+        font-size: 14px;
+    }
+
+    .musicblockimg {
+        width: 38px;
+        height: 38px;
+    }
+
+    .musicblock {
+        gap: 13px;
+        bottom: 5px;
+    }
+
+    .play {
+        width: 18px;
+        height: 18px;
+        bottom: 19px;
+        left: 1%;
+    }
+
+    .musicsblock {
+        margin-bottom: 160px;
+        margin-top: 10px;
+    }
+
+    .wrap-grid {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .grid-block:nth-child(n + 3) {
+        display: none;
+    }
+
+    .grid-img {
+        width: 70px;
+        height: 70px;
+    }
+
+    .img:nth-child(1) {
+        width: 23px;
+        height: 24px;
+    }
+
+    .footerText {
+        font-size: 15px;
+    }
+
+    footer {
+        display: none;
+    }
+
+
+    .grid-img {
+        width: 70px;
+        height: 70px;
+    }
+
+    .grid-text {
+        font-size: 18px;
+    }
+
+    .hello {
+        font-size: 34px;
+    }
+
+    .grid {
+        grid-template-columns: repeat(2, 210px);
+        grid-auto-rows: 324px;
+        grid-gap: 25px;
+        margin-bottom: 20px;
+    }
+
+    .title {
+        margin-bottom: 10px;
+        font-size: 27px;
+    }
+
+    .gridtwo {
+        grid-template-columns: repeat(2, 210px);
+        grid-auto-rows: 324px;
+        grid-gap: 25px;
+    }
+
+    .grid-text {
+        font-size: 18px;
+    }
+
+    .index {
+        height: 150vh;
+    }
+
+    .gold {
+        height: 150vh;
+    }
+
+    .imgClick2 {
+        width: 50px;
+        height: 50px;
+    }
+
+    .text {
+        font-size: 16px;
+    }
+
+    .footerText {
+        font-size: 15px;
+    }
+
+    .items {
+        padding: 18px 18px 18px;
+        gap: 20px;
+    }
+
+    .footer2 {
+        padding: 0 25px;
+    }
+
+    .item-text-block {
+        gap: 4px;
+    }
+
+    .item-img {
+        width: 175px;
+        height: 175px;
+    }
+
+    #dropdownAvatarNameButton {
+        padding: 2px;
+        gap: 1px;
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .biggestPlayer {
+        display: none;
+    }
+
+    .biggestDownload {
+        display: none;
+    }
+
+    .biggestSearch {
+        display: none;
+    }
+
+    .biggestInput {
+        display: none;
+    }
+
+    .biggestPlayer2 {
+        display: block;
+        width: 55px;
+        height: 55px;
+    }
+
+    .pauses2 {
+        width: 20px;
+        height: 22px;
+    }
+
+    .bigImg2 {
+        width: 250px;
+        height: 250px;
+        top: -250px;
+    }
+
+    .searchblock {
+        width: 210px;
+        height: 30px;
+        gap: 11px;
+        padding: 8px 13px 7px;
+    }
+
+    .inpsearch {
+        all: unset;
+        width: 100%;
+        font-family: 'Circular';
+        font-size: 14px !important;
+    }
+
+    .searchImg {
+        width: 17px;
+        height: 18px;
+    }
+
+    .header-left {
+        gap: 10px;
+    }
+
+    .history__block__grid {
+        grid-template-columns: repeat(2, 1fr);
+        grid-auto-rows: 215px;
+        grid-gap: 20px;
+    }
+
+    .history__top_jenres {
+        display: none;
+    }
+
+    .genresText {
+        display: none;
+    }
+
+    .history__block {
+        display: flex;
+        gap: 25px;
+        align-items: center;
+    }
+
+    .containersearch {
+        margin-bottom: 160px;
+    }
+
+    .avatar_layout {
+        width: fit-content;
+        height: fit-content;
+    }
+
+    .inpChange {
+        height: 44px !important;
+        width: 160px !important;
+        padding: 0 10px !important;
+        font-size: 13px !important;
+    }
+
+    .nameChangeText {
+        font-size: 20px;
+    }
+
+    .name_change_left {
+        gap: 15px;
+    }
+
+    .name_change_block {
+        margin: 22px 0;
+    }
+
+    .submitChange {
+        font-size: 19px;
+        padding: 10px 40px;
+    }
+
+    .nameChangeDesc {
+        font-size: 13px;
+    }
+    .musicnumber2 {
+        font-size: 19px;
+        bottom: 13px;
+        left: 1.5%;
+    }
+
+    .musicblockimg2 {
+        width: 38px;
+        height: 38px;
+    }
+
+    .place__results_left_song {
+        font-size: 30px;
+    }
+
+    .place__results_left_artist {
+        font-size: 16px;
+    }
+
+    .musicblock2 {
+        gap: 13px;
+        bottom: 5px;
+        left: 5.5%;
+    }
+
+    .blocktext3 {
+        font-size: 16px;
+    }
+
+    .blocktext4 {
+        font-size: 14px;
+    }
+
+    .musicitem2 {
+        height: 62px;
+    }
+
+    .musicblockalbum2 {
+        font-size: 15px;
+        left: 50.3%;
+    }
+
+    .musicdate2 {
+        display: none;
+    }
+
+    .likedblock2 {
+        width: 25px;
+        height: 25px;
+        bottom: 20.5px;
+        left: 88.4%;
+    }
+
+    .timeblock2 {
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width: 450px) {
+
+    .playlisy-header {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .titletext {
+        font-size: 75px;
+        line-height: 90px;
+    }
+
+    .public {
+        display: none;
+    }
+
+    .playlist-img {
+        width: 290px;
+        height: 290px;
+        margin: 0 auto;
+    }
+
+    .playlist-img2 {
+        width: 290px;
+        height: 290px;
+        margin: 0 auto;
+    }
+
+    .likedTitle {
+        font-size: 60px;
+        line-height: 95px;
+    }
+
+    .artist-name {
+        font-size: 17px;
+    }
+
+    .font {
+        font-size: 14px;
+        bottom: 10px;
+    }
+
+    .clock {
+        width: 23px;
+        height: 23px;
+        bottom: 13px;
+    }
+
+    .count {
+        font-size: 18px;
+        bottom: 9px;
+        left: 1.5%;
+        display: none;
+    }
+
+    .musicnumber {
+        font-size: 19px;
+        bottom: 13px;
+        left: 1.5%;
+        display: none;
+    }
+
+    .musicblockalbum {
+        font-size: 15px;
+    }
+
+    .musicdate {
+        font-size: 15px;
+    }
+
+    .likedblock {
+        width: 25px;
+        height: 25px;
+        bottom: 20.5px;
+        left: 88.4%;
+    }
+
+    .timeblock {
+        font-size: 16px;
+    }
+
+    .blocktext1 {
+        font-size: 16px;
+    }
+
+    .blocktext2 {
+        font-size: 14px;
+    }
+
+    .musicblockimg {
+        width: 38px;
+        height: 38px;
+    }
+
+    .headerTitle {
+        left: 1.5%;
+    }
+
+    .headerDate {
+        display: none;
+    }
+
+    .musicdate {
+        display: none;
+    }
+
+    .headerAlbum {
+        left: 44.3%;
+    }
+
+    .clock {
+        left: 90%;
+    }
+
+    .timeblock {
+        left: 90%;
+    }
+
+    .likedblock {
+        left: 82.4%;
+    }
+
+    .biggestHeart {
+        width: 40px;
+        height: 40px;
+    }
+
+    .biggestDots {
+        width: 35px;
+        height: 35px;
+    }
+
+    .biggestLeft {
+        gap: 23px;
+    }
+
+    .musicblockalbum {
+        font-size: 15px;
+        left: 44.3%;
+    }
+
+    .musicblock {
+        gap: 13px;
+        bottom: 5px;
+        left: 1.5%;
+    }
+
+    .play {
+        width: 18px;
+        height: 18px;
+        bottom: 19px;
+        left: 1%;
+    }
+
+    .musicsblock {
+        margin-bottom: 160px;
+        margin-top: 10px;
+    }
+
+    .wrap-grid {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .grid-block:nth-child(n + 3) {
+        display: none;
+    }
+
+    .grid-img {
+        width: 70px;
+        height: 70px;
+    }
+
+    .img:nth-child(1) {
+        width: 22px;
+        height: 22px;
+    }
+
+    .footerText {
+        font-size: 15px;
+    }
+
+    .footer2 {
+        padding: 0 20px;
+    }
+
+
+    .grid-img {
+        width: 70px;
+        height: 70px;
+    }
+
+    .grid-text {
+        font-size: 18px;
+    }
+
+    .hello {
+        font-size: 34px;
+    }
+
+    .grid {
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 2%;
+        grid-auto-rows: max-content;
+        margin-bottom: 20px;
+    }
+
+    .title {
+        margin-bottom: 10px;
+        font-size: 27px;
+    }
+
+    .gridtwo {
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 2%;
+    }
+
+    .grid-text {
+        font-size: 17px;
+    }
+
+    .index {
+        height: 141vh;
+    }
+
+    .gold {
+        height: 141vh;
+    }
+
+    .text {
+        font-size: 16px;
+    }
+
+    .footerText {
+        font-size: 14px;
+    }
+
+    .items {
+        height: fit-content;
+        padding: 4% 7% 4% 8%;
+        gap: 15px;
+    }
+
+    .item-text-block {
+        gap: 4px;
+    }
+
+    .item-img {
+        width: 99%;
+        height: 170px;
+    }
+
+    .imgclick2 {
+        width: 45px;
+        height: 45px;
+    }
+
+    .musictitle {
+        font-size: 16px;
+    }
+
+    .musicartist {
+        font-size: 14px;
+    }
+
+    .pause {
+        width: 35px;
+        height: 35px;
+    }
+
+    .img-block2 {
+        gap: 4px;
+    }
+
+    .img {
+        width: 21px;
+        height: 21px;
+    }
+
+    .footer3-center-bottom {
+        height: 4px;
+    }
+
+    .player {
+        width: 65px;
+        height: 65px;
+        bottom: 37%;
+        right: 37%;
+    }
+
+    .player2 {
+        width: 65px;
+        height: 65px;
+    }
+
+    .bigImg2 {
+        width: 240px;
+        height: 240px;
+        top: -240px;
+    }
+
+    .searchblock {
+        width: 180px;
+        height: 30px;
+        gap: 11px;
+        padding: 8px 13px 7px;
+    }
+
+    .inpsearch {
+        all: unset;
+        width: 80% !important;
+        font-family: 'Circular';
+        font-size: 13px !important;
+    }
+
+    .searchImg {
+        width: 15px;
+        height: 15px;
+    }
+
+    .header-left {
+        gap: 10px;
+    }
+
+    .history__block__grid {
+        grid-template-columns: repeat(2, 1fr);
+        grid-auto-rows: 190px;
+        grid-gap: 18px;
+    }
+
+    .history__top_jenres {
+        display: none;
+    }
+
+    .genresText {
+        display: none;
+    }
+
+    .history__block {
+        display: flex;
+        gap: 25px;
+        align-items: center;
+    }
+
+    .containersearch {
+        margin-bottom: 160px;
+    }
+
+    .history__block-item {
+        width: 165px;
+        height: 224px;
+        padding: 12px 14px 0px 12px;
+        margin-bottom: 35px;
+    }
+
+    .history__block-item-bottom-artist_name {
+        font-size: 14.5px;
+    }
+
+    .history__block-item-bottom-artist {
+        font-size: 13.5px;
+    }
+
+    .history__block-item-top-avatar {
+        width: 140px;
+        height: 140px;
+    }
+
+    .history__block-item-top_no {
+        width: 13px;
+        height: 13px;
+        right: 10px;
+        background-size: cover;
+    }
+
+    .history__block-item-top {
+        position: relative;
+        width: 152px;
+        height: 152px;
+    }
+
+    .history__block-item-bottom {
+        margin-top: 0px;
+        gap: 2px;
+    }
+
+    .avatar_layout {
+        width: fit-content;
+        height: fit-content;
+    }
+
+    .inpChange {
+        height: 40px !important;
+        width: 120px !important;
+        padding: 0 8px !important;
+        font-size: 12px !important;
+    }
+
+    .nameChangeText {
+        font-size: 19px;
+    }
+
+    .name_change_left {
+        gap: 12px;
+    }
+
+    .name_change_block {
+        margin: 18px 0;
+    }
+
+    .submitChange {
+        font-size: 18px;
+        padding: 8px 33px;
+    }
+
+    .nameChangeDesc {
+        font-size: 11.5px;
+    }
+    .musicnumber2 {
+        font-size: 17px;
+        bottom: 16px;
+        left: 1.5%;
+    }
+
+    .musicblockimg2 {
+        width: 38px;
+        height: 38px;
+    }
+    
+    .place__results_left_song {
+        font-size: 27px;
+    }
+
+    .place__results_left_artist {
+        font-size: 14px;
+    }
+
+    .musicblock2 {
+        gap: 13px;
+        bottom: 5px;
+        left: 5.5%;
+    }
+
+    .blocktext3 {
+        font-size: 16px;
+    }
+
+    .blocktext4 {
+        font-size: 14px;
+    }
+
+    .musicitem2 {
+        height: 62px;
+    }
+
+    .musicblockalbum2 {
+        font-size: 15px;
+        left: 50.3%;
+    }
+
+    .musicdate2 {
+        display: none;
+    }
+
+    .likedblock2 {
+        width: 25px;
+        height: 25px;
+        bottom: 20.5px;
+        left: 83.4%;
+    }
+
+    .timeblock2 {
+        font-size: 16px;
+        left: 91%;
+    }
+    .place__results_left_img {
+        width: 60px;
+        height: 60px;
+        box-shadow: 0px 0px 15px rgb(0 0 0 / 25%);
+    }
+    .place__results {
+        gap: 20px;
+    }
+}

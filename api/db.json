@@ -1,0 +1,262 @@
+{
+  "playlist": [
+    {
+      "id": 1,
+      "music": "Do You Want",
+      "artist": "Ex Habit",
+      "liked": true,
+      "dateadd": "27 мар. 2022г",
+      "albom": "Do You Want",
+      "img": "Do You Want",
+      "length": "2:20"
+    },
+    {
+      "id": 2,
+      "music": "Often",
+      "artist": "Weeknd",
+      "liked": true,
+      "dateadd": "25 янв. 2022г",
+      "albom": "Beauty Behind",
+      "img": "Often",
+      "length": "4:09"
+    },
+    {
+      "id": 3,
+      "music": "I Feel Like",
+      "artist": "Two Feet",
+      "liked": false,
+      "dateadd": "25 янв. 2022г",
+      "albom": "20 Something Fuck",
+      "img": "I Feel Like",
+      "length": "3:06"
+    },
+    {
+      "id": 4,
+      "music": "Trust",
+      "artist": "Brent Faiyaz",
+      "liked": true,
+      "dateadd": "26 янв. 2022г",
+      "albom": "Lost",
+      "img": "Trust",
+      "length": "2:38"
+    },
+    {
+      "id": 5,
+      "music": "Bad Girls Do It",
+      "artist": "Ex Habit",
+      "liked": false,
+      "dateadd": "25 янв. 2022г",
+      "albom": "Bad Girls Do It",
+      "img": "Bad Girls Do It",
+      "length": "3:49"
+    },
+    {
+      "id": 6,
+      "music": "High",
+      "artist": "ORYL",
+      "liked": false,
+      "dateadd": "30 days ago",
+      "albom": "High",
+      "img": "High",
+      "length": "2:29"
+    },
+    {
+      "id": 7,
+      "music": "Obsessed",
+      "artist": "Zandros, Limi",
+      "liked": false,
+      "dateadd": "25 days ago",
+      "albom": "Obsessed",
+      "img": "Obsessed",
+      "length": "3:00"
+    },
+    {
+      "id": 8,
+      "music": "Streets",
+      "artist": "Doja Cat",
+      "liked": true,
+      "dateadd": "25 янв. 2022г",
+      "albom": "Hot Pink",
+      "img": "Streets",
+      "length": "3:47"
+    },
+    {
+      "id": 9,
+      "music": "Love Is a Bitch",
+      "artist": "Two Feet",
+      "liked": true,
+      "dateadd": "25 янв. 2022г",
+      "albom": "Love Is a Bitch",
+      "img": "Love Is a Bitch",
+      "length": "3:01"
+    },
+    {
+      "id": 10,
+      "music": "The Hills",
+      "artist": "Weeknd",
+      "liked": true,
+      "dateadd": "25 янв. 2022г",
+      "albom": "Beauty Behind",
+      "img": "The Hills",
+      "length": "4:02"
+    },
+    {
+      "id": 11,
+      "music": "By Money",
+      "artist": "INSTASAMKA",
+      "liked": true,
+      "dateadd": "29 сен. 2022г",
+      "albom": "POPSTAR",
+      "img": "By Money",
+      "length": "1:59"
+    },
+    {
+      "id": 12,
+      "music": "Call Out My",
+      "artist": "Weeknd",
+      "liked": false,
+      "dateadd": "25 янв. 2022г",
+      "albom": "Dear Melancholy",
+      "img": "Call Out My",
+      "length": "3:48"
+    },
+    {
+      "id": 13,
+      "music": "Mount Everest",
+      "artist": "Labrinth",
+      "liked": true,
+      "dateadd": "25 янв. 2022г",
+      "albom": "Imagination",
+      "img": "Mount Everest",
+      "length": "2:37"
+    },
+    {
+      "id": 14,
+      "music": "Sweater Weather",
+      "artist": "Neighbour",
+      "liked": false,
+      "dateadd": "25 янв. 2022г",
+      "albom": "I Love You.",
+      "img": "Sweater Weather",
+      "length": "4:00"
+    },
+    {
+      "id": 15,
+      "music": "On Raxat",
+      "artist": "Gunwest",
+      "liked": true,
+      "dateadd": "25 янв. 2022г",
+      "albom": "НА РАХАТЕ",
+      "img": "On Raxat",
+      "length": "3:00"
+    },
+    {
+      "id": 16,
+      "music": "Starboy",
+      "artist": "Weeknd",
+      "liked": false,
+      "dateadd": "25 мар. 2022г",
+      "albom": "Beauty Behind",
+      "img": "Starboy",
+      "length": "3:50"
+    }
+  ],
+  "alboms": [
+    {
+      "id": 1,
+      "img": "TheWeeknd",
+      "artist": "Weeknd",
+      "songs": "Often, The Hills, Call Out My Name...",
+      "background": "#F5F5F5",
+      "liked": false
+    },
+    {
+      "id": 2,
+      "img": "ExHabit",
+      "artist": "Ex Habit",
+      "songs": "Who Do You Want, Bad Girls Do It Well...",
+      "background": "#A40000",
+      "liked": false
+    },
+    {
+      "id": 3,
+      "img": "Two Feet",
+      "artist": "Two Feet",
+      "songs": "Love Is a Bitch, I Feel Like I'm Drowning...",
+      "background": "#3A8DDD",
+      "liked": false
+    },
+    {
+      "id": 4,
+      "img": "TheNeighbourhood",
+      "artist": "Neighbour",
+      "songs": "Sweater Weather, Softcore...",
+      "background": "#F5F5F5",
+      "liked": false
+    },
+    {
+      "id": 5,
+      "img": "ORYL2",
+      "artist": "ORYL",
+      "songs": "High, I'm Yours...",
+      "background": "#214788",
+      "liked": false
+    },
+    {
+      "id": 6,
+      "img": "Insta",
+      "artist": "INSTASAMKA",
+      "songs": "By Money, Lipsi Ha...",
+      "background": "#DD4A2E",
+      "liked": false
+    },
+    {
+      "id": 7,
+      "img": "Chillbig",
+      "artist": "Chill Mix",
+      "songs": "Julia Wolf, Khalid, ayokay and more",
+      "background": "#214788",
+      "liked": false
+    },
+    {
+      "id": 8,
+      "img": "Pop big",
+      "artist": "Pop Mix",
+      "songs": "Hey Violet, VÉRITÉ, Timeflies and more",
+      "background": "#214788",
+      "liked": false
+    },
+    {
+      "id": 9,
+      "img": "Pheelz",
+      "artist": "Pheelz Mix",
+      "songs": "WizKid, Asake, Tiwa Savage and more",
+      "background": "#214788",
+      "liked": false
+    },
+    {
+      "id": 10,
+      "img": "Indie Mix",
+      "artist": "Indie Mix",
+      "songs": "Joywave, The xx, The Neighbourhood and...",
+      "background": "#214788",
+      "liked": false
+    },
+    {
+      "id": 11,
+      "img": "daily big",
+      "artist": "Daily Mix 1",
+      "songs": "Ayra Starr, Lil Kesh, Ed Sheeran and more",
+      "background": "#214788",
+      "liked": false
+    },
+    {
+      "id": 12,
+      "img": "Daily2 Big",
+      "artist": "Daily Mix 5",
+      "songs": "FRENSHIP, Brooke Sierra, Julia Wolf an...",
+      "background": "#214788",
+      "liked": false
+    }
+  ]
+}

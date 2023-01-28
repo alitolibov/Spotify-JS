@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../style.css">
+    <link rel="stylesheet" href="../media/media.css">
+    <link rel="shortcut icon" href="../public/images/Spotify Icon.png" type="image/x-icon">
+    <link rel="stylesheet" href="https://unpkg.com/flowbite@1.5.5/dist/flowbite.min.css" />
+    <title>Spotify - Settings</title>
+</head>
+
+<body>
+    <div id="root"></div>
+    <div class="wrapper">
+        <p class="hello">Settings</p>
+        <form name="form">
+            <div class="name_change_block">
+                <div class="name_change_left">
+                    <p class="nameChangeText">User</p>
+                    <p class="nameChangeDesc">Click on the box to change your username</p>
+                </div>
+                <input type="text" class="inpChange" name="username">
+            </div>
+            <div class="name_change_block">
+                <div class="name_change_left">
+                    <p class="nameChangeText">Premium</p>
+                    <p class="nameChangeDesc">Click to switch to premium account</p>
+                </div>
+                <div class="name_change_right">
+                    <label class="switch">
+                        <input type="checkbox" class="input" name="change">
+                        <span class="slider round"></span>
+                      </label>
+                </div>
+            </div>
+            <button class="submitChange">Save Changes</button>
+        </form>
+    </div>
+    <script type="module" src="./index.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script src="../path/to/flowbite/dist/flowbite.js"></script>
+    <script src="https://unpkg.com/flowbite@1.5.5/dist/flowbite.js"></script>
+</body>
+
+</html>
