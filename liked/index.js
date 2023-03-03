@@ -344,7 +344,7 @@ async function loadSong(song, artist, music) {
     })
     if(viewport_width >= 1050) {
         // console.log(block);
-        musictitle.innerHTML = song
+        musictitle.innerHTML = song;
         musicartist.innerHTML = artist
         musicimg.style.backgroundImage = `url("../img/${song}.jpg")`
         bigImg.style.backgroundImage = `url("../img/${song}.jpg")`
