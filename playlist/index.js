@@ -80,7 +80,7 @@ let top = document.querySelector('.footer-center-top')
 let audio = document.querySelector('audio')
 let likedclick = document.querySelector('.likedclick')
 likedclick.onclick = () => {
-    window.location.assign('../liked/index.html')
+    window.location.assign('../liked/index.html');
 }
 progreesBlock.onmouseenter = () => {
     progress.classList.add('green2')
