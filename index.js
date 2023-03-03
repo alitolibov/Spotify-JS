@@ -114,7 +114,7 @@ flow.onclick = () => {
 }
 
 let {pathname} = window.location
-pathname !== '/playlist/index.html' || '/liked/index.html' ? localStorage.removeItem('albom') : null
+pathname !== './playlist/index.html' || './liked/index.html' ? localStorage.removeItem('albom') : null
 
 
 
