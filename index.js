@@ -75,10 +75,10 @@ flowBtn.onclick = () => {
 }
 likedtext.style.color = '#ffffff'
 likedclick.onclick = () => {
-    window.location.assign('/liked/index.html')
+    window.location.assign('./liked/index.html')
 }
 search.onclick = () => {
-    window.location.assign('/search/index.html')
+    window.location.assign('./search/index.html')
 }
 grids.forEach(item => {
     item.onmouseenter = () => {
