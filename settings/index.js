@@ -1,5 +1,5 @@
 import layout from "../layout/layout.js";
-let url = "http://localhost:3001/playlist"
+let url = "http://localhost:3001/playlist";
 let cont = document.querySelector('#root')
 layout(cont)
 let form = document.forms.form
