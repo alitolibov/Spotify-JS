@@ -465,7 +465,7 @@ let volumeSet = document.querySelector('.progress2')
 let radius2 = document.querySelector('.radius2')
 
 function setVolume(e) {
-    const width = this.clientWidth
+    const width = this.clientWidth;
     const click = e.offsetX
     let target = width / 100 * click
     const volume = +`0.${target < 10 && target > 0 ? `0${target}` : target}`
