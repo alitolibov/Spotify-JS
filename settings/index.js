@@ -1,6 +1,6 @@
 import layout from "../layout/layout.js";
 let url = "http://localhost:3001/playlist";
-let cont = document.querySelector('#root')
+let cont = document.querySelector('#root');
 layout(cont)
 let form = document.forms.form
 const viewport_width = Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
