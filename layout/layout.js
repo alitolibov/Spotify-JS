@@ -1,4 +1,4 @@
-let local = JSON.parse(localStorage.getItem('userState'))
+let local = JSON.parse(localStorage.getItem('userState'));
 
 const layout = (place) => {
     place.innerHTML = `
@@ -188,5 +188,5 @@ const layout = (place) => {
         </a>
     </div>
     `
-}
+};
 export default layout;
