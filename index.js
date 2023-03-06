@@ -1,5 +1,5 @@
 import layout from "./layout/layout.js";
-let url = "http://localhost:3001/playlist"
+let url = "http://localhost:3001/playlist";
 let a
 let b
 const viewport_width = Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
