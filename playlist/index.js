@@ -1,5 +1,5 @@
 import layout from "../layout/layout.js";
-let url = "http://localhost:3001/playlist"
+let url = "http://localhost:3001/playlist";
 function write() {
     axios.get(url)
     .then(res => {
