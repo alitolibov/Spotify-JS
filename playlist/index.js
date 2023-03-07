@@ -25,7 +25,7 @@ let playlistImg = document.querySelector('.playlist-img').style.backgroundImage 
 let title = document.querySelector('.titletext').innerHTML = local.artist
 let musicname = document.querySelector('.artist-name').innerHTML = local.songs
 let place = document.querySelector('.musicsblock');
-let header = document.querySelector('header')
+let header = document.querySelector('header');
 let flow = document.querySelector('.none')
 let wrap = document.querySelector('.wrapper')
 let wraps = document.querySelector('.wrappers')
