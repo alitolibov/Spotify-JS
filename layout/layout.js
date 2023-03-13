@@ -152,7 +152,7 @@ const layout = (place) => {
                         <div class="imgclick2"></div>
                         <div class="artistssongs">
                         <p class="musictitle artistSinger">Play It Safe</p>
-                            <p class="musicartist artistSinger2">Julia Wolf</p>
+                            <p class="musicartist artistSinger2">Jula Wolf</p>
                          </div>
                         </div>
                         <div class="pause pause2"></div>
