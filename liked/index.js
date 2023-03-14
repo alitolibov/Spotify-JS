@@ -1,5 +1,5 @@
 import layout from "../layout/layout.js";
-let cont = document.querySelector('#root')
+let cont = document.querySelector('#root');
 let color = document.querySelector('.color2')
 layout(cont)
 let url = "http://localhost:3001/playlist"
